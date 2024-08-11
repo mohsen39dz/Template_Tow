@@ -209,7 +209,7 @@ header nav .form i {
 /************* Start Landing *****************/
 
 .landing {
-    background-image: url('/img/10.jpg');
+    background-image: url('../img/10.jpg');
     background-color: #19c8fa;
     min-height: 100vh;
     background-size: cover;
@@ -355,7 +355,7 @@ header nav .form i {
 .design {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
-    background-image: url('/img/clock.jpg');
+    background-image: url('../img/clock.jpg');
     background-size: cover;
     height: 600px;
     display: flex;
@@ -597,7 +597,7 @@ header nav .form i {
 .stats {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
-    background-image: url('/img/stats1.jpg');
+    background-image: url('../img/stats1.jpg');
     background-size: cover;
     text-align: center;
     position: relative;
@@ -793,7 +793,7 @@ header nav .form i {
 .quote {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
-    background-image: url("/img/dragon5.jpg");
+    background-image: url("../img/dragon5.jpg");
     background-size: cover;
     position: relative;
     text-align: center;
@@ -932,7 +932,7 @@ header nav .form i {
 .subscribe {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
-    background-image: url('/img/earth-round3.jpg');
+    background-image: url('../img/earth-round3.jpg');
     background-size: cover;
     position: relative;
     color: white;
@@ -1103,7 +1103,7 @@ header nav .form i {
 .footer {
     padding-top: calc(var(--section-padding) / 2);
     padding-bottom: calc(var(--section-padding) / 2);
-    background-image: url('/img/earth01.webp');
+    background-image: url('../img/earth01.webp');
     background-size: cover;
     color: white;
     text-align: center;
